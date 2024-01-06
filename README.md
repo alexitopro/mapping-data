@@ -11,5 +11,12 @@ This repository is part of the Coursera course: [Python, Bash and SQL Essentials
 ## Exercise
 For this exercise, you will be using data from the [sample_data/](/../../tree/main/sample_data) and the [exercise.ipynb](/../../tree/main/exercise.ipynb) notebook. The notebook contains pre-written code that you can use to complete the exercise. Please refer to the Coursera instructions for details on how to complete this exercise.
 
+What was done with sample-data + pandas:
+- checking if it contains White/Red
+- getting rows with wine score range between 90-92 points and sort values in ascending
+- removing duplicate values to retrieve unique varieties
+- saving all subsets into JSON files
+- revise if data was successfully saved
+
 ## Questions or Issues?
 Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
